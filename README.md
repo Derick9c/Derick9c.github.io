@@ -24,11 +24,12 @@ Computational Social Science (CSS), Smart Governance, Urban Data Analytics, Caus
 ## Work Experience
 **Research Assistant, CUHK (Shenzhen) — Urban Governance Project**  
 *2024.10 – 2025.08*  
-- Built a city emergency crisis database integrating multi-source data.  
-- Crawled and cleaned large-scale social media comments related to urban crises.  
-- Developed an interactive dashboard for real-time monitoring and visualization of crisis events.  
+- Assisted in establishing a city emergency crisis database for a national-level research project on urban governance, collecting and organizing multi-source data on urban emergency events.  
+- Designed folder structures for each city and event, identified and adapted open-source web crawlers to collect large-scale social media comments, and modified the dashboard layout for better visualization; also explored large language model fine-tuning for supplementary analysis.
+- Built a structured, queryable database enabling real-time monitoring of urban crises; improved dashboard usability for visualizing multi-modal data, supporting project analysis and reporting. 
 
 ---
+
 
 ## Projects (Selected)
 ### Metro Expansion and Urban Mobility Efficiency — Causal Inference
