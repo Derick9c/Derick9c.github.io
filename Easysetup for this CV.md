@@ -68,4 +68,4 @@ theme: jekyll-theme-minimal
 * If logo does not display, check if the theme supports logo and path in `_config.yml`.
 * Refresh browser cache if needed.
 
-* notice: I used the jekyll-theme-minimal(it's github offical theme),you can get more information about the github style:https://docs.github.com/en/pages.
+### notice: I used the jekyll-theme-minimal(it's github offical theme),you can get more information about the github style:https://docs.github.com/en/pages.
