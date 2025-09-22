@@ -9,7 +9,7 @@ This file outlines a step-by-step workflow to set up a GitHub Pages CV.
 
 ### Step 2: Write Markdown CV
 
-* Create a file named `README.md` or `index.md` in the root directory.
+* Create a file named `README.md` in the root directory.
 * Use Markdown syntax to write your full CV content.
 
 Example:
@@ -36,8 +36,7 @@ logo: assets/img/profile.jpg
 description: My CV — Computational Social Science & Smart Governance
 show_downloads: false
 theme: jekyll-theme-minimal
-include:
-  - assets
+
 ```
 
 ### Step 4: Upload Images
@@ -68,3 +67,5 @@ include:
 * If images do not load, check file name case and relative paths.
 * If logo does not display, check if the theme supports logo and path in `_config.yml`.
 * Refresh browser cache if needed.
+
+* notice: I used the jekyll-theme-minimal(it's github offical theme),you can get more information about the github style:https://docs.github.com/en/pages.
