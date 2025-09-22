@@ -10,7 +10,7 @@
   
 
 ## Research Interests
-Computational Social Science (CSS), Smart Governance, Urban Data Analytics, Causal Inference, Bayesian Methods
+Computational Social Science (CSS), Smart Governance, LLM Agent-based model
 
 ---
 
