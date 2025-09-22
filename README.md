@@ -5,9 +5,8 @@
 ---
 
 ## Education
-- M.S., Computational Social Science — The Chinese University of Hong Kong, Shenzhen — 2024.09 – 2025.06  
-- B.A., International Economics and Trade — Nanjing Normal University — 2020.09 – 2024.06
-
+- M.S., Computational social science | CUHKSZ (08/2023 - 07/2024)	 		
+- B.A., International economics and trade| NNU (09/2017 - 06/2021)
 ---
 
 ## Research Interests
