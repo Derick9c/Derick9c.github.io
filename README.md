@@ -5,7 +5,7 @@
 ---
 
 ## Education
-- M.S., Computational social science | the chinese univerisity of hongkong,shenzhen (09/2024 - 07/2025)	 		
+- M.S., Computational social science | The chinese univerisity of hongkong,shenzhen (09/2024 - 07/2025)	 		
 - B.A., International economics and trade| Nanjing normal university (09/2020 - 06/2024)
   
 
