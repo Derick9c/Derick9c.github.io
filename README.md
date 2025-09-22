@@ -15,7 +15,7 @@ Computational Social Science (CSS), Smart Governance, Urban Data Analytics, Caus
 ---
 
 ## Skills
-- Programming/Tools: Python (NumPy, pandas, PyTorch), R, Stata, LaTeX  
+- Programming/Tools: Python (NumPy, pandas, scikit-learn), R, Stata, LaTeX  
 - Methods: DID/IV/PSM, Synthetic Control, Bayesian Multilevel Models, NLP, Network Analysis  
 - Libraries/Frameworks: Stan/JAGS/brms, scikit-learn, HuggingFace, geopandas, networkx
 
