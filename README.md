@@ -1,4 +1,4 @@
-# Derick (吴张驰) — Computational Social Science (CSS) & Smart Governance
+# Derick  — Computational Social Science (CSS) & Smart Governance
 
 📍 Shenzhen |✉️ 224030202@link.cuhk.edu.cn | [GitHub](https://github.com/Derick9c)
 
