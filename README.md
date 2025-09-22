@@ -5,8 +5,8 @@
 ---
 
 ## Education
-- M.S., Computational social science | CUHKSZ (08/2023 - 07/2024)	 		
-- B.A., International economics and trade| NNU (09/2017 - 06/2021)
+- M.S., Computational social science | CUHKSZ (09/2024 - 07/2025)	 		
+- B.A., International economics and trade| NNU (09/2020 - 06/2024)
 ---
 
 ## Research Interests
