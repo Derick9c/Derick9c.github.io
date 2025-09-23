@@ -51,4 +51,3 @@ Computational Social Science (CSS), Smart Governance, LLM Agent-based model
 Email: 224030202@link.cuhk.edu.cn  
 GitHub: [https://github.com/Derick9c](https://github.com/Derick9c)
 
-*This page is powered by GitHub Pages.*
